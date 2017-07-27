@@ -32,7 +32,7 @@ Battle preparations or how to start a war
 Documentation and other links
 ----
 
-* [Robocode Website](ttp://robocode.sourceforge.net/)
+* [Robocode Website](http://robocode.sourceforge.net/)
 * [Robocode API](http://robocode.sourceforge.net/docs/robocode/)
 * [Robocode Getting Started](http://robowiki.net/wiki/Robocode_Basics)
 * [Robocode Wiki](http://robowiki.net/wiki/Main_Page)
